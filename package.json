@@ -1,18 +1,17 @@
 {
-  "name": "electron-quick-start",
-  "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "name": "sourcer",
+  "version": "0.0.1",
+  "description": "A desktop app for open sourcers",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
-  "repository": "https://github.com/electron/electron-quick-start",
+  "repository": "https://github.com/sourcerapp/desktop",
   "keywords": [
-    "Electron",
-    "quick",
-    "start",
-    "tutorial",
-    "demo"
+    "GitHub",
+    "desktop",
+    "issues",
+    "productivity"
   ],
   "author": "GitHub",
   "license": "CC0-1.0",
