@@ -5,6 +5,10 @@
 2. Install dependencies `yarn install`.
 3. Start the app `yarn start`.
 
+## References
+- [Getting Started with Electron and Visual Studio Code (+ TypeScript and React)](https://medium.com/@paulirwin/getting-started-with-electron-and-visual-studio-code-typescript-and-react-36d41b68fadb)
+- [Setting up a Typescript Electron app in Webpack](http://blog.scottlogic.com/2017/06/06/typescript-electron-webpack.html)
+
 ## LICENSE
 
 ```
